@@ -1,2 +1,3 @@
 # Air-Pi
-Low cost thermal cam for drones.
+Extrem leichte thermal Kamera (basierend auf der Flirone) für Drohnen.
+
